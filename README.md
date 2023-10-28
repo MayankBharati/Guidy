@@ -1,4 +1,4 @@
-# directools
+[[# directools
 A set of tools for using directus in real world projects.   Managing roles, permissions, flows and operations as code.
 
 
@@ -48,6 +48,7 @@ Please make sure you set the correct url and token for dirctus, in the config.in
 You can take config.ini.sample as an example.
 
 ![image](https://github.com/kinnovent/directools/assets/311397/87f14b3f-6d69-4b8f-a10d-ef4f844eadb0)
+![image](https://github.com/kinnovent/directools/assets/311397/87f14b3f-6d69-4b8f-a10d-ef4f844eadb0)
 
 
 ### 2.5. Load Flows
@@ -55,3 +56,4 @@ You can take config.ini.sample as an example.
 change current directory to src and run `python load_flows.py`
 
 the script will try to load all the flows from a directory configured in the config.ini file.
+](https://github.com/kinnovent/directools/assets/311397/87f14b3f-6d69-4b8f-a10d-ef4f844eadb0)https://github.com/kinnovent/directools/assets/311397/87f14b3f-6d69-4b8f-a10d-ef4f844eadb0](https://github.com/kinnovent/directools/assets/311397/87f14b3f-6d69-4b8f-a10d-ef4f844eadb0)https://github.com/kinnovent/directools/assets/311397/87f14b3f-6d69-4b8f-a10d-ef4f844eadb0
