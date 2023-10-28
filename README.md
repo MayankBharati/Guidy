@@ -71,5 +71,3 @@ python load_flows.py
 ![image](https://github.com/kinnovent/directools/assets/311397/87f14b3f-6d69-4b8f-a10d-ef4f844eadb0)
 
 The script will try to load all the flows from a directory configured in the `config.ini` file.
-
-Please ensure that you document your project and these steps in a more detailed manner for easy reference by other team members or users. This documentation should include information on the purpose and usage of these tools and provide examples of configuration files and commands.
